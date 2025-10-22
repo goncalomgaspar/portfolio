@@ -24,7 +24,7 @@ Here you can find some of the projects I developed during my Computer Science de
   - **Features:** Monitoring of shipments, association of sensors, and alerts for critical events (e.g., impact detection, temperature variation).  
   - **Highlights:** Modular enterprise architecture (MVC, ORM, concurrency), focusing on scalability and integration with external systems.  
 
-👉 [View Repository](https://github.com/JorgeSilvaESTG/ProjetoDAE)
+👉 [View Repository](https://github.com/goncalomgaspar/ProjetoDAE)
 
 ---
 

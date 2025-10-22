@@ -1,7 +1,7 @@
 # 📂 My Portfolio
 
 Welcome to my academic portfolio!  
-Here you can find some of the projects I developed during my Computer Engineering degree.
+Here you can find some of the projects I developed during my Computer Science degree.
 
 ---
 

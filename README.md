@@ -15,7 +15,7 @@ Here you can find some of the projects I developed during my Computer Engineerin
 
 ---
 
-### 📌 DAE – Enterprise Applications Development
+### 📌 EAD – Enterprise Applications Development
 **Project:** Smart Packaging Monitoring Platform  
 - **Role:** Backend  
 - **Description:** Enterprise application to monitor sensor-equipped packaging, integrating with logistics and order management systems.  
@@ -41,7 +41,7 @@ Here you can find some of the projects I developed during my Computer Engineerin
 
 ---
 
-### 📌 IS – Systems Integration
+### 📌 SI – Systems Integration
 **Project:** SOMIOD – Service Oriented Middleware for Interoperability and Open Data  
 - **Role:** Backend & Frontend  
 - **Description:** Development of a service-oriented middleware for IoT interoperability, supporting applications, containers, records, and notifications.  

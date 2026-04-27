@@ -56,7 +56,7 @@ Here you can find some of the projects I developed during my Computer Science de
 
 ## 🛠️ Tech Stack
 ### 🔹 Backend (main focus)
-- **Languages & Frameworks:** Java (Jakarta EE), Node.js, Express.js, PHP (Laravel)  
+- **Languages & Frameworks:** Java (Jakarta EE), .Net, Node.js, Express.js, PHP (Laravel)  
 - **Concepts:** REST APIs, WebSockets, MQTT, API design, distributed systems, enterprise integration, IoT backends  
 - **Databases:** PostgreSQL, SQL (relational DBMS), ORM techniques  
 
